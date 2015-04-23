@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://niangaotuantuan.github.io/sitemap.xml
+Sitemap: http://lukebelieves.github.io/sitemap.xml
