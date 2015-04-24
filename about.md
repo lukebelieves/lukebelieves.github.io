@@ -17,9 +17,13 @@ Previously, I was an undergraduate from College of Computer Science, Sichuan Uni
 
 I like reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* directed by Ang Lee.
 
-I really want to be a **craftsman**.
+I really want to be a **craftsman**.    
 
                  
+  
+  
+  
+  
 
 > *The name of the author is the first to go*    
 *followed obediently by the title, the plot,*    
@@ -30,29 +34,29 @@ I really want to be a **craftsman**.
 *decided to retire to the southern hemisphere of the brain,*    
 *to a little fishing village where there are no phones.*    
 > 
-> *Long ago you kissed the names of the nine muses goodbye*
-*and watched the quadratic equation pack its bag,*
-*and even now as you memorize the order of the planets,*
+> *Long ago you kissed the names of the nine muses goodbye*    
+*and watched the quadratic equation pack its bag,*    
+*and even now as you memorize the order of the planets,*    
 > 
-*something else is slipping away, a state flower perhaps,*
-*the address of an uncle, the capital of Paraguay.*
+*something else is slipping away, a state flower perhaps,*    
+*the address of an uncle, the capital of Paraguay.*    
 > 
-*Whatever it is you are struggling to remember,*
-*it is not poised on the tip of your tongue*
-*or even lurking in some obscure corner of your spleen.*
+*Whatever it is you are struggling to remember,*    
+*it is not poised on the tip of your tongue*    
+*or even lurking in some obscure corner of your spleen.*    
 > 
-*It has floated away down a dark mythological river*
-*whose name begins with an L as far as you can recall*
+*It has floated away down a dark mythological river*    
+*whose name begins with an L as far as you can recall*    
 > 
-*well on your own way to oblivion where you will join those*
-*who have even forgotten how to swim and how to ride a bicycle.*
+*well on your own way to oblivion where you will join those*    
+*who have even forgotten how to swim and how to ride a bicycle.*    
 > 
-*No wonder you rise in the middle of the night*
-*to look up the date of a famous battle in a book on war.*
-*No wonder the moon in the window seems to have drifted*
-*out of a love poem that you used to know by heart.*
+*No wonder you rise in the middle of the night*    
+*to look up the date of a famous battle in a book on war.*    
+*No wonder the moon in the window seems to have drifted*    
+*out of a love poem that you used to know by heart.*    
 > 
-> *Forgetfulness* by Billy Collins
+> **Forgetfulness** by Billy Collins
 
          
 
