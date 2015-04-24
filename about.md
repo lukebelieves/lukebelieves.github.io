@@ -17,7 +17,7 @@ Previously, I was an undergraduate from College of Computer Science, Sichuan Uni
 
 I like reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* directed by Ang Lee.
 
-I really want to be a craftsman.
+I really want to be a craftsman, making things (i.e., programs, novels, music, paintings, food, among others) with my hands.
 <br />
 <br />
 <br />
