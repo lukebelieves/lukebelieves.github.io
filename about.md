@@ -19,7 +19,6 @@ I like reading, mostly literatures. I think Haruki Murakami is a fascinating wri
 
 I really want to be a **craftsman**.    
 
-                 
   
   
   
