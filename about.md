@@ -7,7 +7,7 @@ image:
   feature: bg_about.jpg
 ---
 
-I am **Luke Chuan Luo**, a PhD student now at Chinese Academy of Sciences, Institute of Automation (CASIA). 
+I am **Luke Chuan Luo**, a PhD student now at the Chinese Academy of Sciences, Institute of Automation (CASIA). 
 
 On this blog, I mostly write about my life and work (Causal Inference, Social Influence Analysis, Data Visualization).
 
@@ -17,7 +17,7 @@ Previously, I was an undergraduate from College of Computer Science, Sichuan Uni
 
 I like reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* directed by Ang Lee.
 
-I want to be a craftsman.
+I really want to be a **craftsman**.
 
                  
 
