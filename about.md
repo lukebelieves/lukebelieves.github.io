@@ -15,9 +15,9 @@ At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/)
 
 Previously, I was an undergraduate from College of Computer Science, Sichuan University. There, I worked with [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/) and [Prof. Jiancheng Lv](http://www.machineilab.org/users/lvjiancheng/) at Machine Intelligence Laboratory. We had conducted an interesting Voice Conversion project.
 
-I love reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* (a.k.a., "Yin shi nan nu") directed by Ang Lee. Speaking of music, I like the cello : )
+I love reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* (a.k.a., "Yin shi nan nu") directed by Ang Lee. Speaking of music, I like the cello.
 
-I really want to be a good craftsman, creating things (i.e., computer programs, novels, paintings, music and food, among others) with my own hands and sharing them with my dear friends and families.
+I really want to be a good craftsman, creating things (i.e., computer programs, novels, paintings, music and food, among others) with my own hands and sharing them with my dear friends and families. ^_^
 <br />
 <br />
 <br />
