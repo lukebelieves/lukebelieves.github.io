@@ -21,9 +21,7 @@ I really want to be a **craftsman**.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+    
 > *The name of the author is the first to go*    
 *followed obediently by the title, the plot,*    
 *the heartbreaking conclusion, the entire novel*    
