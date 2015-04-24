@@ -7,22 +7,15 @@ image:
   feature: bg_about.jpg
 ---
 
-I am **Yanran Li**, a Research Assistant now at PolyU (Hong Kong). 
+I am **Luke Chuan Luo**, a PhD student now at [CASIA] (http://www.ia.cas.cn/) (Beijing). 
 
-On this blog, I mostly write about Natural Language Processing, Deep Learning, Social Network Analysis, Applied Machine Learning and Optimization and issues with *R* language.
+On this blog, I mostly write about my life and work (Causal Inference, Social Influence Analysis, Data Visualization).
 
-I was an undergraduate from the Centre of Information Science, School of Electronics Engineering and Computer Science(EECS), Peking University. I work with [Prof. Sujian Li](http://www.icl.pku.edu.cn/member/lisujian/) and [Prof. Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/). I also do some research at Microsoft as **Applied Researcher and Developer**.
+At CASIA, I work with [Prof. Daniel Dajun Zeng] (http://www.u.arizona.edu/~zeng/). My research focuses on **Social Influence Analysis** and **Causal Inference** in social media. In addition, I also work on applications in **Smart Health**. Generally speaking, by investigating multiple datasets, I want to answer 1) *how people influence each other* and 2) *how to promote desirable behaviors (i.e., quitting smoking) in crowd*.
 
-As I didn't want my about page to be a direct result of boredom, I concluded that the best way I can think of to describe myself is to list all of the things that make me happy. So in no particular order, here it goes: 
-
-**Books (mostly Literatures). Arts (I also paint). Running. Family & Friends. Traveling. A good Sunday sunshine. Hand lettering. Coffee. Dancing (I used to dance). Gardening (I'd like to be my career). The smell of fresh flowers.**
+Previously, I was an undergraduate from College of Computer Science, Sichuan University. There, I worked with [Prof. Yi Zhang] (http://www.machineilab.org/users/zhangyi/) and [Prof. Jiancheng Lv] (http://www.machineilab.org/users/lvjiancheng/) at Machine Intelligence Laboratory.
 
 
-
-
-
-
-       
 
                  
 
