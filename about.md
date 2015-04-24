@@ -7,7 +7,7 @@ image:
   feature: bg_about.jpg
 ---
 
-I am **Luke Chuan Luo**, a PhD student now at [CASIA](http://www.ia.cas.cn/) (Beijing). 
+I am **Luke Chuan Luo**, a PhD student now at Chinese Academy of Sciences, Institute of Automation (CASIA). 
 
 On this blog, I mostly write about my life and work (Causal Inference, Social Influence Analysis, Data Visualization).
 
@@ -15,7 +15,9 @@ At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/)
 
 Previously, I was an undergraduate from College of Computer Science, Sichuan University. There, I worked with [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/) and [Prof. Jiancheng Lv](http://www.machineilab.org/users/lvjiancheng/) at Machine Intelligence Laboratory.
 
+I like reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* directed by Ang Lee.
 
+I want to be a craftsman.
 
                  
 
