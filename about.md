@@ -7,7 +7,7 @@ image:
   feature: bg_about.jpg
 ---
 
-I am **Luke Chuan Luo**, a PhD student now at the Chinese Academy of Sciences, Institute of Automation (CASIA). 
+I am **Luke Chuan Luo**, a PhD student majoring in Computer Science at the Chinese Academy of Sciences, Institute of Automation (CASIA). 
 
 On this blog, I mostly write about my life and work (Causal Inference, Social Influence Analysis, Data Visualization).
 
