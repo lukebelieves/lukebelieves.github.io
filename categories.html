@@ -16,7 +16,7 @@ image:
     {% endfor %}
   {% else %}
     {% for cate in categories_list %}
-        <li><a href="#{{ cate[0] }}" class="cat">{{ cat[0] }} <span>{{ cat[1].size }}</span></a></li>
+        <li><a href="#{{ cat[0] }}" class="cat">{{ cat[0] }} <span>{{ cat[1].size }}</span></a></li>
     {% endfor %}
   {% endif %}
 {% assign tags_list = nil %}
