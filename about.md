@@ -21,14 +21,14 @@ I really want to be a **craftsman**.
 
                  
 
-> *The name of the author is the first to go*
-*followed obediently by the title, the plot,*
-*the heartbreaking conclusion, the entire novel*
-*which suddenly becomes one you have never read, never even heard of,*
-
-*as if, one by one, the memories you used to harbor*
-*decided to retire to the southern hemisphere of the brain,*
-*to a little fishing village where there are no phones.*
+> *The name of the author is the first to go*	
+*followed obediently by the title, the plot,*	
+*the heartbreaking conclusion, the entire novel*	
+*which suddenly becomes one you have never read, never even heard of,*	
+> 
+> *as if, one by one, the memories you used to harbor*	
+*decided to retire to the southern hemisphere of the brain,*	
+*to a little fishing village where there are no phones.*	
 
 *Long ago you kissed the names of the nine muses goodbye*
 *and watched the quadratic equation pack its bag,*
