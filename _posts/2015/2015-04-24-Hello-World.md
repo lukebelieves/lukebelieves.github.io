@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World
-description: 这个月提交了学位论文，更新了日常作息，感觉真好。加油少年！测试description
 
 comments: true
 share: true
@@ -18,4 +17,6 @@ tags:
 ---
 
 这个月提交了学位论文，更新了日常作息，感觉真好。加油少年！
-^-^
+
+情绪还是时常起起伏伏，不过都有感知了，会有意识地去调整。
+
