@@ -9,7 +9,7 @@ image:
 
 My name is **Chuan Luo** ("**罗川**" in Chinese) and you can also call me **Luke**. Currently, I'm a PhD student majoring in Computer Science at the Chinese Academy of Sciences, Institute of Automation (CASIA). On this blog, I mostly write about my life and work.
 
-At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/). My research focuses on Social Influence Analysis and Causal Inference in social media. In addition, I also work on applications in Smart Health. Generally speaking, by investigating multiple datasets, I want to answer 1) *how people influence each other* and 2) *how to promote desirable behaviors (i.e., quitting smoking) in crowd*.
+At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/). My research focuses on Social Influence Analysis and Causal Inference in social media. I also work on applications in Smart Health. Generally speaking, I want to answer 1) *how people influence each other* and 2) *how to promote desirable behaviors (i.e., quitting smoking) in crowd*.
 
 Previously, I was an undergraduate from College of Computer Science, Sichuan University. There, I worked with [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/) and [Prof. Jiancheng Lv](http://www.machineilab.org/users/lvjiancheng/) at Machine Intelligence Laboratory. We had conducted an interesting Voice Conversion project.
 
