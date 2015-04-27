@@ -15,7 +15,7 @@ I love reading, mostly literatures. I think Haruki Murakami is a fascinating wri
 
 I try my best to become a good craftsman, creating things (i.e., computer programs, novels, paintings, music and food, among others) with my own hands and sharing them with my dear friends and families. ^_^
 
-An elegant Seattle & Hangzhou & Ninghai girl showed me who I am and how to live a good life. I really thank her and wish her happy, forever.
+An elegant Seattle & Hangzhou & Ninghai girl showed me who I am and how to live a good life. I really thank her and wish her **happy**, forever.
 <br />
 <br />
 <br />
