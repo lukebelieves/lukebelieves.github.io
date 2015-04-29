@@ -14,11 +14,9 @@ At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/)
 I love reading, mostly literatures. I think Haruki Murakami is a fascinating writer. Regarding to movies, my favorite one is *Eat Drink Man Woman* (a.k.a., "Yin shi nan nu") directed by Ang Lee. Speaking of music, I like the cello.
 
 I try my best to become a good craftsman, creating things (i.e., computer programs, novels, paintings, music and food, among others) with my own hands and sharing them with my dear friends and families. ^_^
-
 <br />
 <br />
 <br />
-    
 > *The name of the author is the first to go*    
 *followed obediently by the title, the plot,*    
 *the heartbreaking conclusion, the entire novel*    
