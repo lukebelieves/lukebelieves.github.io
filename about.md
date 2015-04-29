@@ -17,6 +17,7 @@ I try my best to become a good craftsman, creating things (i.e., computer progra
 <br />
 <br />
 <br />
+
 > *The name of the author is the first to go*    
 *followed obediently by the title, the plot,*    
 *the heartbreaking conclusion, the entire novel*    
