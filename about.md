@@ -7,7 +7,7 @@ image:
   feature: bg_about.jpg
 ---
 
-My name is **Chuan Luo** ("**罗川**" in Chinese) and you can also call me **Luke**. FYI, this English name *Luke* is inspired by the **Bible**, and *Gilmore Girls* (an American drama series). Currently, I'm a fifth year PhD student majoring in Computer Science at the Chinese Academy of Sciences, Institute of Automation (CASIA). On this blog, I mostly write about my life and work.
+My name is **Chuan Luo** ("**罗川**" in Chinese) and you can also call me **Luke**. FYI, my English name *Luke* is inspired by the **Bible**, and *Gilmore Girls* (an American drama series). Currently, I'm a fifth year PhD student majoring in Computer Science at the Chinese Academy of Sciences, Institute of Automation (CASIA). On this blog, I mostly write about my life and work.
 
 At CASIA, I work with [Prof. Daniel Dajun Zeng](http://www.u.arizona.edu/~zeng/). My research focuses on Social Influence Analysis and Causal Inference in social media. I also work on applications in Smart Health. In general, I want to answer the question of how people influence each other, and how to promote desirable behaviors (i.e., vaccination and quitting smoking) in crowd. Previously, I was an undergraduate from College of Computer Science, Sichuan University. There, I worked with [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/) and [Prof. Jiancheng Lv](http://www.machineilab.org/users/lvjiancheng/) at the Machine Intelligence Lab. We had conducted an interesting Voice Conversion project.
 
