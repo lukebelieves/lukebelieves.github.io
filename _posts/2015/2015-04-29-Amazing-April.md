@@ -48,17 +48,17 @@ tags:
 
 **博客**
 
-都不好意思说，以前fail了多少个blog。这次再也不愿意放弃了，决心要坚持写下去，记录自己的生活和工作。感谢Yanran Li同学的模板，就为了这么舒服的模板，也应该写下去呀。
+都不好意思说，以前fail了多少个blog。这次再也不愿意放弃了，决心要坚持写下去，记录自己的生活和工作。感谢Yanran Li同学的模板，就为了这么舒服的模板，也应该写下去呀。想在Godaddy上把lukebelieves.com和lukechuanluo.com这两个域名都买下来，结果发现前天还是0.99刀一年，转眼就涨到了9.99刀，决定观望一段时间再入手。
 
 **Offer大牛经验分享会**
 
-27号所里请了科院6位大牛（Facebook×2, MSRA×2, NetEase Game, Alibaba）过来做应聘经验分享。各位风格不完全一样，但大都高频率提到刷题、leetcode、组队讨论和分享。两位签FB的同学职业规划似乎都是考虑从FB跳其他湾区startups，或者BAT在湾区的办公室。听下来觉得去Google反而是最简单的，刷算法题吧，确实是标准化程度挺高、可行性挺大的。会全力以赴朝这方面努力。
+27号所里请了科院6位大牛（Facebook×2, MSRA×2, NetEase Game, Alibaba）过来做应聘经验分享。各位风格不完全一样，但大都高频率提到刷题、leetcode、组队讨论和分享。两位签FB的同学职业规划似乎都是考虑从FB跳其他湾区startups，或者BAT在湾区的办公室。听下来觉得去Google反而是最简单的，刷算法题吧，无他。确实是标准化程度挺高、可行性挺大的，会全力以赴朝这方面努力。
 
 **目标和时间线**
 
 柱子在愚人节那天收到武大的拒信，我也是醉了。最终决定和我一起去UA！
 
-想清楚了，一年之后去公司，不做发考题。Target companies还是大公司Google、Facebook、Amazon、LinkedIn，还有Fitbit。
+想清楚了，一年之后去公司，不做发考题。Target companies还是大公司Google、Facebook、Amazon、LinkedIn，还有Fitbit。不管是做software development还是data analytics都行。
 
 后面的时间规划：
 
