@@ -56,7 +56,7 @@ tags:
 
 **目标和时间线**
 
-柱子在愚人节那天收到武大的拒信，也是醉了。决定和我一起去UA！
+柱子在愚人节那天收到武大的拒信，我也是醉了。最终决定和我一起去UA！
 
 想清楚了，一年之后去公司，不做发考题。Target companies还是大公司Google、Facebook、Amazon、LinkedIn，还有Fitbit。
 
